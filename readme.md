@@ -8,7 +8,7 @@ Right now I’m currently transitioning from a design background into the world 
 
 **Feel free to explore my portfolio and see the projects I’m working on!**
 
-[![Webflow](https://img.shields.io/badge/Webflow-4353FF.svg?style=for-the-badge&logo=webflow&logoColor=white)](https://webflow.com/yourusername) [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/hafizikhsan73)
+[![Webflow](https://img.shields.io/badge/Webflow-4353FF.svg?style=for-the-badge&logo=webflow&logoColor=white)](https://hafizz.webflow.io/) [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/hafizikhsan73)
 
 <hr></hr>
 
