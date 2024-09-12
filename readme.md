@@ -25,8 +25,12 @@ Right now I’m currently transitioning from a design background into the world 
 <hr></hr>
 
 📊 **Stats**
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HafizIkhsan)](https://github.com/HafizIkhsan/github-readme-stats) 
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HafizIkhsan&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HafizIkhsan&layout=compact&theme=white"/>
+</a>
+</p>
 
 
 
