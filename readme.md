@@ -26,7 +26,7 @@ Right now I’m currently transitioning from a design background into the world 
 
 📊 **Stats**
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a>
   <img height="144em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HafizIkhsan&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="144em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HafizIkhsan&layout=compact&theme=white"/>
 </a>
