@@ -27,7 +27,7 @@ Right now I’m currently transitioning from a design background into the world 
 📊 **Stats**
 <p align="left">
 <a>
-  ![Hafiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=HafizIkhsan&show_icons=true&theme=transparent)
+  <img height="144em" src="https://github-readme-stats.vercel.app/api?username=HafizIkhsan&show_icons=true&theme=transparent"/>
   <img height="144em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HafizIkhsan&layout=compact&theme=white"/>
 </a>
 </p>
