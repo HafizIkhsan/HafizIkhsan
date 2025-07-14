@@ -1,39 +1,46 @@
 # Hi, I'm Hafiz 👋🏼
 
-`Informatic Engineering Student 👨🏻‍💻`
+🎓 Informatics Engineering Student <br>
+☁️ Cloud Computing Enthusiast | Bangkit Academy 2024 — Cloud Computing Path  
+📜 Google Associate Cloud Engineer Certified (May 2025)  [Badges](https://www.credly.com/badges/b8a089c5-6fd7-4727-8e86-6e7fdaa743c6/public_url)
 
-I'm a college student with a strong passion for Web Development and UI/UX 💻
+---
 
-Right now I’m currently transitioning from a design background into the world of coding. With a growing interest in cloud computing and web development, I’m focused on learning the latest technologies and frameworks to broaden my skill set. My goal is to combine my experience in UI/UX design with coding to create functional, user-centered digital experiences.
+I’m an informatics student with a strong interest in Cloud Computing and DevOps.  
+Through Bangkit Academy 2024 (Cloud Computing Path), I gained hands-on experience in designing and deploying scalable cloud-native applications using Google Cloud Platform (GCP) services.
 
-**Feel free to explore my portfolio and see the projects I’m working on!**
+I’m eager to keep learning and contribute to real-world cloud projects as a Cloud Engineer Intern.
 
-[![Webflow](https://img.shields.io/badge/Webflow-4353FF.svg?style=for-the-badge&logo=webflow&logoColor=white)](https://hafizz.webflow.io/) [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/hafizikhsan73)
+---
 
-<hr></hr>
+## 🔧 Tools & Technologies
+![My Skills](https://skillicons.dev/icons?i=git,gcp,linux,vscode,nodejs,javascript&perline=3)
 
-**Languages and Tools**
+---
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,github,figma&perline=3)
+## 📂 Featured Project
 
-**Connect with me**
+**🌱 Berkebun+ — Capstone Project (Bangkit Academy 2024)**  
+[🔗 View Repo](https://github.com/CP-Berkebun)
 
-[![My Sosmed](https://skillicons.dev/icons?i=gmail)](mailto:hafizikhsan73@gmail.com)
-[![My Sosmed](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammadhafizikhsan/)
+Built an end-to-end cloud-based disease detection system using:  
+- ☁️ **Google Cloud Platform**: App Engine, Cloud Run, Cloud Storage, Firestore  
+- 🧠 **ML Integration**: Plant disease model served via Cloud Run  
+- 🔧 **Backend**: Node.js (Hapi.js), Python (FastAPI)
 
+---
 
-<hr></hr>
+## 📫 Connect with Me
 
-📊 **Stats**
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hafizikhsan73@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammadhafizikhsan/)
+
+---
+
+## 📊 GitHub Stats
 <p align="left">
 <a>
   <img height="144em" src="https://github-readme-stats.vercel.app/api?username=HafizIkhsan&show_icons=true&theme=transparent"/>
   <img height="144em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HafizIkhsan&layout=compact&theme=white"/>
 </a>
 </p>
-
-
-
-
-<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/HafizIkhsan)-->
-
