@@ -6,10 +6,10 @@
 
 ---
 
-I’m an informatics student with a strong interest in Cloud Computing and DevOps.  
+I’m an **informatics student** 👨🏻‍💻 with a strong interest in **Cloud Computing and DevOps**.  
 Through Bangkit Academy 2024 (Cloud Computing Path), I gained hands-on experience in designing and deploying scalable cloud-native applications using Google Cloud Platform (GCP) services.
 
-I’m eager to keep learning and contribute to real-world cloud projects as a Cloud Engineer Intern.
+I’m eager to keep learning and contribute to real-world cloud projects as a **Cloud Engineer Intern**.
 
 ---
 
