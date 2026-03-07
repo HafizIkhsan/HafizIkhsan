@@ -58,7 +58,7 @@ Tech Stack:
 ## 📊 GitHub Stats
 <p align="left">
 <a>
-  <img height="144em" src="https://streak-stats.demolab.com?user=HafizIkhsan"/>
+  <img height="144em" src="https://github-readme-stats.vercel.app/api?username=HafizIkhsan&show_icons=true&theme=transparent"/>
   <img height="144em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HafizIkhsan&layout=compact&theme=white"/>
 </a>
 </p>
