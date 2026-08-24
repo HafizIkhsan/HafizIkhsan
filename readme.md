@@ -1,6 +1,6 @@
 # Hi, I'm Hafiz 👋🏼
 
-🎓 Informatics Engineering Student <br>
+🎓 Fresh Graduate Informatics Engineering <br>
 📊 Aspiring Data Engineer <br>
 🎓 Bangkit Academy 2024 — Cloud Computing Path <br>
 ☁️ Google Associate Cloud Engineer Certified (May 2025)  [Badges](https://www.credly.com/badges/b8a089c5-6fd7-4727-8e86-6e7fdaa743c6/public_url)
@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 About Me
 
-I'm an Informatics Engineering student with a strong interest in **Data Engineering and Cloud Computing**.
+I'm a Fresh Graduate from Informatics Engineering major with a strong interest in **Data Engineering and Cloud Computing**.
 
 I enjoy working with **data pipelines, data processing, and cloud-based systems**.  
 Through **Bangkit Academy 2024 (Cloud Computing Path)**, I gained hands-on experience building and deploying applications using **Google Cloud Platform (GCP)**.
@@ -24,6 +24,21 @@ Currently, I'm exploring how to build **scalable data pipelines and data process
 ---
 
 ## 📂 Featured Projects
+
+### 🛒 Instacart Data Warehouse — ETL Pipeline
+[🔗 View Repository](https://github.com/HafizIkhsan/Instacart-Project-Data-Warehouse)
+
+Built an end-to-end ETL pipeline and Data Warehouse using the Instacart Market Basket Analysis dataset.
+
+Key Highlights:
+- Designed a Star Schema Data Warehouse for analytics
+- Built staging, transformation, and loading processes using Python and SQL
+- Orchestrated the ETL pipeline using Apache Airflow
+- Containerized the environment using Docker Compose
+- Used PostgreSQL as the Data Warehouse
+- Automated dataset ingestion from Kaggle
+
+Tech Stack: Python, PostgreSQL, SQL, Apache Airflow, Docker, Pandas
 
 ### 🚍 Transjakarta Data Pipeline — Medallion Architecture
 [🔗 View Repository](https://github.com/HafizIkhsan/Public-Transportation-Data-Pipeline-Medallion-Architecture)
@@ -58,7 +73,6 @@ Tech Stack:
 ## 📊 GitHub Stats
 <p align="left">
 <a>
-  <img height="144em" src="https://github-readme-stats.vercel.app/api?username=HafizIkhsan&show_icons=true&theme=transparent"/>
   <img height="144em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HafizIkhsan&layout=compact&theme=white"/>
 </a>
 </p>
