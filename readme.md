@@ -2,7 +2,7 @@
 
 🎓 Fresh Graduate Informatics Engineering <br>
 📊 Aspiring Data Engineer <br>
-📊 Associate Data Engineer Certified by Datacamp (Sep 2026) <br> [Badges](https://www.datacamp.com/certificate/DEA0018986897037)
+📊 Data Engineer Associate Certified by Datacamp (Sep 2026) [Certificate](https://www.datacamp.com/certificate/DEA0018986897037) <br>
 🎓 Bangkit Academy 2024 — Cloud Computing Path <br>
 ☁️ Google Associate Cloud Engineer Certified (May 2025)  [Badges](https://www.credly.com/badges/b8a089c5-6fd7-4727-8e86-6e7fdaa743c6/public_url)
 
