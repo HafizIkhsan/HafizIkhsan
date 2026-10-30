@@ -26,15 +26,15 @@ Currently, I'm exploring how to build **scalable data pipelines and data process
 
 ## 📂 Featured Projects
 
-### 🛒 Instacart Data Warehouse — ETL Pipeline
+### 🛒 Instacart Data Warehouse — ELT Pipeline
 [🔗 View Repository](https://github.com/HafizIkhsan/Instacart-Project-Data-Warehouse)
 
-Built an end-to-end ETL pipeline and Data Warehouse using the Instacart Market Basket Analysis dataset.
+Built an end-to-end ELT pipeline and Data Warehouse using the Instacart Market Basket Analysis dataset.
 
 Key Highlights:
 - Designed a Star Schema Data Warehouse for analytics
 - Built staging, transformation, and loading processes using Python and SQL
-- Orchestrated the ETL pipeline using Apache Airflow
+- Orchestrated the ELT pipeline using Apache Airflow
 - Containerized the environment using Docker Compose
 - Used PostgreSQL as the Data Warehouse
 - Automated dataset ingestion from Kaggle
